@@ -39,6 +39,10 @@ else {
     console.log('tomar friend er mobile number daw');
 }
 
+//........Another System............//
 if ((isGraduated == true && salary > 50000) || cars >= 1) {
-    console.log()
+    console.log("Eso prem korci");
+}
+else {
+    console.log("Tomar friend er mobile number daw");
 }
