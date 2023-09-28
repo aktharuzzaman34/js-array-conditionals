@@ -7,8 +7,8 @@ var fruitsChange = fruits[1];
 fruits[1] = 'Mango';
 console.log(fruits);
 
-B.
-    fruits.pop();
+// B.
+fruits.pop();
 console.log(fruits);
 fruits.push('Watermelon');
 console.log(fruits);
@@ -24,11 +24,11 @@ var cGradeScore = 50;
 var dGradeScore = 40;
 var fail = 39;
 // student-score
-var myTotalScore = 85;
+var myTotalScore = 5;
 var tomsTotalScore = 66;
 var JaneTotalScore = 95;
 var peterTotalScore = 56;
-var jhonTotalScore = 40;
+var jhonTotalScore = 30;
 // My-Gradding
 if (aPlusGradeScore <= myTotalScore) {
     console.log('My Score - A+');
@@ -139,3 +139,6 @@ else if (fail <= jhonTotalScore) {
 else {
     console.log('Jhon Score - F');
 }
+
+
+// Practice - 03
