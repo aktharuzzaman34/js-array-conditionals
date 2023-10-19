@@ -13,10 +13,10 @@ var myBudget = 95000;
  * */
 
 if (iphonePrice < myBudget) {
-    // console.log("iphone kina futani marbo");
+    console.log("iphone kina futani marbo");
 }
 var chickenPrice = 500;
-var myMoney = 50000;
+var myMoney = 50;
 // if (chickenPrice <= myMoney) {
 //     console.log("Murgir raan khamu & haddi cibamu");
 // }
@@ -30,7 +30,7 @@ var myMoney = 50000;
  * na hoi : else
  */
 
-if (chickenPrice < myMoney) {
+if (chickenPrice <= myMoney) {
     console.log("i will eat chicken");
 }
 else {
